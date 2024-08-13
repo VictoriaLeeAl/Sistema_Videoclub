@@ -36,7 +36,7 @@ Desarrolla una aplicación que permita realizar consultas y administrar las rent
 + **X/x:** Indica la cantidad de videojuegos cuya plataforma es Xbox One.
 + **U/u:** Termina el programa.
 
-## Tecnologías que se utilizaron: 
+### Tecnologías que se utilizaron: 
 **JAVA**
 
 ### El programa mostrará una pantalla similar al ser compilado: 
